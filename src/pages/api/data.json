@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "His mother had always taught him",
+      "tags": [
+        "history",
+        "crime"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "He was an expert but not in a discipline",
+      "tags": [
+        "french",
+        "fiction",
+        "english"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Dave watched as the forest burned up on the hill.",
+      "tags": [
+        "magical",
+        "history",
+        "french"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "All he wanted was a candy bar.",
+      "tags": [
+        "mystery",
+        "english"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Hopes and dreams were dashed that day.",
+      "tags": [
+        "crime",
+        "mystery",
+        "love"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Dave wasn't exactly sure how he had ended up",
+      "tags": [
+        "english",
+        "classic"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "This is important to remember.",
+      "tags": [
+        "magical",
+        "crime"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "One can cook on and with an open fire.",
+      "tags": [
+        "english"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "There are different types of secrets.",
+      "tags": [
+        "history",
+        "magical"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "They rushed out the door.",
+      "tags": [
+        "fiction",
+        "magical",
+        "history"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "new book1"
+    },
+    {
+      "id": 12,
+      "title": "new book 2"
+    }
+  ]
+}
